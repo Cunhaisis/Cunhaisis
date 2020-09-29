@@ -9,15 +9,12 @@ Eu sou a Isis e ... :
 -->
 
 
-😬 Eu gosto de muuto de aprender
-💻 Eu trabalho com desenvolvimento web 
-📚 Atualmente estou estudando Desenvolvimento para Web ===> JavaScript e suas Bobliotecas como o ReactJs e Nodejs.
-📺 Eu tambem sou uma consumidora assumida de Séries 
+-😬 Eu gosto de muito de aprender
+-💻 Eu trabalho com desenvolvimento web 
+-📚 Atualmente estou estudando Desenvolvimento para Web ===> JavaScript e suas Bobliotecas como o ReactJs e Nodejs.
+-📺 Eu tambem sou uma consumidora assumida de Séries 
 
-
-
-
-Você pode encontrar meu perfil aqui: https://www.linkedin.com/in/isis-priscila-da-cunha-118b87111/
+Você tambem pode encontrar meu perfil aqui: https://www.linkedin.com/in/isis-priscila-da-cunha-118b87111/
 
 
 
